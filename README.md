@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada do seu README com melhorias na clareza, formatação e organização para facilitar o entendimento e a execução do projeto:
-
----
-
 # Projeto: Servidor MLflow na AWS com Armazenamento S3 e Modelo ElasticNet
 
 Este guia fornece um processo passo a passo para configurar o **MLflow** em uma instância EC2 da AWS, armazenando artefatos no S3. O projeto inclui a criação de um servidor MLflow, configuração de permissões IAM, e a implementação de um modelo ElasticNet para regressão.
